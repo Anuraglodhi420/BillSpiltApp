@@ -1,3 +1,3 @@
 # BillSpiltApp
 Intial repo
-author-> Anurag
+author-> Anurag lodhi
