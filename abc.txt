@@ -1,2 +1,6 @@
 jlksncksncs
+<<<<<<< HEAD
 i added this using feeat2(dropdown)
+=======
+i added this using feeat2(button)
+>>>>>>> master
